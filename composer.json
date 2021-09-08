@@ -1,0 +1,15 @@
+{
+    "name": "maron/test",
+    "autoload": {
+        "psr-4": {
+            "Maron\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Maron",
+            "email": "maron.alexey@gmail.com"
+        }
+    ],
+    "require": {}
+}
