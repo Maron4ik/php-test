@@ -11,5 +11,7 @@
             "email": "maron.alexey@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "webmozart/assert": "^1.10"
+    }
 }
